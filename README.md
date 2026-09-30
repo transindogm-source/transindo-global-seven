@@ -1,1 +1,7 @@
-V5 website PT. TRANSINDO GLOBAL SEVEN. Upload SEMUA file dan folder assets ke repository GitHub. Logo berada di assets/logo-transindo.png.
+V6: Upload SEMUA file LANGSUNG ke ROOT repository GitHub:
+index.html
+style.css
+script.js
+logo-transindo.png
+
+Jangan gunakan folder assets. Logo dipanggil langsung dengan src="logo-transindo.png?v=6".

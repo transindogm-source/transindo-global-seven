@@ -1,1 +1,1 @@
-const menu=document.querySelector(".menu"),nav=document.querySelector(".nav nav");if(menu)menu.onclick=()=>nav.classList.toggle("open");if(nav)nav.querySelectorAll("a").forEach(a=>a.onclick=()=>nav.classList.remove("open"));const top=document.getElementById("top");window.onscroll=()=>top.style.display=scrollY>500?"block":"none";top.onclick=()=>scrollTo({top:0,behavior:"smooth"});
+const m=document.querySelector('.menu'),n=document.querySelector('.nav nav');if(m)m.onclick=()=>n.classList.toggle('open');
