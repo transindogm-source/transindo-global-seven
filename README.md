@@ -1,31 +1,18 @@
-# PT. TRANSINDO GLOBAL SEVEN — Company Profile
+# PT. TRANSINDO GLOBAL SEVEN — V4
+Website company profile siap untuk GitHub Pages.
 
-Versi website company profile yang diperbarui untuk GitHub Pages.
+Struktur:
+- index.html
+- style.css
+- script.js
+- assets/logo-transindo.png
 
-## Isi
-- Responsive desktop/tablet/mobile
-- Navigasi mobile
-- Hero corporate
-- Tentang perusahaan
-- Visi & Misi
-- Layanan Regulated Agent & Cargo Screening
-- Nilai perusahaan TGSPIS
-- Alur layanan
-- Galeri placeholder
-- Berita & artikel placeholder
-- Kontak dan tombol Google Maps
-- SEO dasar dan Open Graph
-- Animasi ringan yang tetap ramah aksesibilitas
+Cara mengganti website lama:
+1. Buka repository `transindogm-source/transindo-global-seven`.
+2. Klik **Add file → Upload files**.
+3. Upload semua isi folder ini, termasuk folder `assets`.
+4. Pilih **Replace** jika GitHub meminta penggantian file.
+5. Klik **Commit changes**.
+6. Tunggu beberapa menit, lalu buka https://transindo.my.id/
 
-## Deploy ke GitHub Pages
-Upload seluruh isi folder ini ke repository GitHub yang digunakan untuk website.
-Pastikan `index.html` berada di root repository dan folder `assets` ikut di-upload.
-
-## Catatan
-Nomor WhatsApp, telepon, dan email resmi belum diisi agar tidak ada data kontak yang dibuat-buat. Tambahkan setelah data resmi perusahaan tersedia.
-
-
-## Versi 3
-Penyempurnaan: SEO dasar, structured data organisasi, CTA mengambang, tombol kembali ke atas, FAQ, section keunggulan, ringkasan hero, serta peningkatan aksesibilitas dan responsivitas.
-
-Custom domain yang digunakan: https://transindo.my.id/
+Domain dan DNS GitHub Pages tidak perlu diubah lagi.
