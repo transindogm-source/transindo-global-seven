@@ -1,25 +1,31 @@
 # PT. TRANSINDO GLOBAL SEVEN — Company Profile
 
-Website company profile statis untuk GitHub Pages.
+Versi website company profile yang diperbarui untuk GitHub Pages.
 
-## Struktur
-- `index.html` — halaman utama
-- `style.css` — desain/responsive
-- `script.js` — menu mobile
-- `assets/logo-transindo.png` — logo PT. TRANSINDO GLOBAL SEVEN
+## Isi
+- Responsive desktop/tablet/mobile
+- Navigasi mobile
+- Hero corporate
+- Tentang perusahaan
+- Visi & Misi
+- Layanan Regulated Agent & Cargo Screening
+- Nilai perusahaan TGSPIS
+- Alur layanan
+- Galeri placeholder
+- Berita & artikel placeholder
+- Kontak dan tombol Google Maps
+- SEO dasar dan Open Graph
+- Animasi ringan yang tetap ramah aksesibilitas
 
-## Upload ke GitHub Pages
-1. Buat repository baru di GitHub, misalnya `transindo-global-seven`.
-2. Upload semua file/folder dari project ini.
-3. Buka **Settings → Pages**.
-4. Pada **Build and deployment**, pilih **Deploy from a branch**.
-5. Pilih branch `main` dan folder `/ (root)`.
-6. Klik **Save**.
-7. Tunggu proses deployment selesai.
-8. GitHub akan memberikan alamat website `https://USERNAME.github.io/transindo-global-seven/`.
+## Deploy ke GitHub Pages
+Upload seluruh isi folder ini ke repository GitHub yang digunakan untuk website.
+Pastikan `index.html` berada di root repository dan folder `assets` ikut di-upload.
 
 ## Catatan
-- Logo resmi PT. TRANSINDO GLOBAL SEVEN sudah dipasang pada `assets/logo-transindo.png`.
-- Ganti placeholder galeri dengan foto operasional perusahaan.
-- Isi nomor WhatsApp, email, dan social media resmi sebelum dipublikasikan.
-- Form kontak pada versi ini masih berupa placeholder dan perlu dihubungkan ke layanan form/email sebelum digunakan.
+Nomor WhatsApp, telepon, dan email resmi belum diisi agar tidak ada data kontak yang dibuat-buat. Tambahkan setelah data resmi perusahaan tersedia.
+
+
+## Versi 3
+Penyempurnaan: SEO dasar, structured data organisasi, CTA mengambang, tombol kembali ke atas, FAQ, section keunggulan, ringkasan hero, serta peningkatan aksesibilitas dan responsivitas.
+
+Custom domain yang digunakan: https://transindo.my.id/
